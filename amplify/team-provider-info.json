@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-habiauth2-dev-a4cb8-authRole",
+      "UnauthRoleArn": "arn:aws:iam::711555035844:role/amplify-habiauth2-dev-a4cb8-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::711555035844:role/amplify-habiauth2-dev-a4cb8-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-habiauth2-dev-a4cb8-deployment",
+      "UnauthRoleName": "amplify-habiauth2-dev-a4cb8-unauthRole",
+      "StackName": "amplify-habiauth2-dev-a4cb8",
+      "StackId": "arn:aws:cloudformation:us-east-1:711555035844:stack/amplify-habiauth2-dev-a4cb8/62e6b960-127b-11ef-b976-0affdffc0597",
+      "AmplifyAppId": "d7you9pgley10"
+    }
+  }
+}

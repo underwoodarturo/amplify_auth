@@ -1,6 +1,0 @@
-https://docs.amplify.aws/react/build-a-backend/auth/concepts/external-identity-providers/
-
- npx ampx sandbox secret set GOOGLE_CLIENT_SECRET 
- npx ampx sandbox
-
- amplify --> auth -->resource
